@@ -5,3 +5,5 @@
 - uso do comando git restore
 
 * uso de repositorio remoto
+
+* git pull 
