@@ -7,3 +7,5 @@
 * uso de repositorio remoto
 
 * git pull 
+
+* git fetch 
